@@ -11,7 +11,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Diagnostics;
 
-namespace XOR_te
+namespace XOR_file
 {
     public partial class Form1 : Form
     {

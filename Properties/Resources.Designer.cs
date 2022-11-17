@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lab04_kyrs_3.Properties {
+namespace XOR_file.Properties {
     using System;
     
     

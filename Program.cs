@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace XOR_te
+namespace XOR_file
 {
     static class Program
     {

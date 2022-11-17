@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace Lab04_kyrs_3.Properties
+namespace XOR_file.Properties
 {
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0")]

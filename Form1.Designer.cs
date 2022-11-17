@@ -1,5 +1,5 @@
 ﻿
-namespace XOR_te
+namespace XOR_file
 {
     partial class Form1
     {
@@ -139,7 +139,7 @@ namespace XOR_te
             // 
             // button_KEYgenerator
             // 
-            this.button_KEYgenerator.Image = global::Lab04_kyrs_3.Properties.Resources.key_png;
+            this.button_KEYgenerator.Image = global::XOR_file.Properties.Resources.key_png;
             this.button_KEYgenerator.Location = new System.Drawing.Point(204, 65);
             this.button_KEYgenerator.Name = "button_KEYgenerator";
             this.button_KEYgenerator.Size = new System.Drawing.Size(96, 24);
@@ -149,7 +149,7 @@ namespace XOR_te
             // 
             // button_fileKEYsave
             // 
-            this.button_fileKEYsave.Image = global::Lab04_kyrs_3.Properties.Resources.save;
+            this.button_fileKEYsave.Image = global::XOR_file.Properties.Resources.save;
             this.button_fileKEYsave.Location = new System.Drawing.Point(587, 24);
             this.button_fileKEYsave.Name = "button_fileKEYsave";
             this.button_fileKEYsave.Size = new System.Drawing.Size(66, 65);
@@ -160,7 +160,7 @@ namespace XOR_te
             // 
             // button_fileKEYopen
             // 
-            this.button_fileKEYopen.Image = global::Lab04_kyrs_3.Properties.Resources.open;
+            this.button_fileKEYopen.Image = global::XOR_file.Properties.Resources.open;
             this.button_fileKEYopen.Location = new System.Drawing.Point(513, 24);
             this.button_fileKEYopen.Name = "button_fileKEYopen";
             this.button_fileKEYopen.Size = new System.Drawing.Size(68, 65);
